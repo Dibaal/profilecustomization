@@ -1,14 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Dibaal
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+After more than a decade in the oil and gas industry, I've taken the bold step to pursue my true passion in DevOps and Cloud Engineering. Excited to embark on this new journey, where I blend my rich industry experience with my love for innovative cloud technology!
+🌱 I’m expanding my knowledge in Cloud and DevOps.
+🤝🏻 I’m looking to collaborate with other content creators and developers.
+🥅 2024 Goals: build more projects and Contribute to Open Source projects and to learn new technologies.
+👐🏻 I'm looking for unlimited leaning opportunities.
+🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Dibaal%20Akari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dibaalakari/)](https://https://www.linkedin.com/in/dibaalakari//)
+[![Medium Badge](https://img.shields.io/badge/Dibaal%20Akari-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dibaalA/)](https://medium.com/@dibaalA/)
+[![Gmail Badge](https://img.shields.io/badge/-dibaalakariimiete@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dibaalakariimiete@gmail.com)](mailto:dibaalakariimiete@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +30,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Dibaal&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibaal&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Dibaal%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Dibaal%2FDibaal)
