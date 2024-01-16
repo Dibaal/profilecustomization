@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dibaal%20Akari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dibaalakari/)](https://https://www.linkedin.com/in/dibaalakari//)
+[![Linkedin Badge](https://img.shields.io/badge/-Dibaal%20Akari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dibaalakari/)](https://https://www.linkedin.com/in/dibaalakari/)
 [![Medium Badge](https://img.shields.io/badge/Dibaal%20Akari-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dibaalA/)](https://medium.com/@dibaalA/)
 [![Gmail Badge](https://img.shields.io/badge/-dibaalakariimiete@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dibaalakariimiete@gmail.com)](mailto:dibaalakariimiete@gmail.com)
 
